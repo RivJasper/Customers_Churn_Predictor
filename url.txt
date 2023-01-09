@@ -1,0 +1,2 @@
+Koyeb : backend-telco-rivjasper.koyeb.app/
+Huggingface : https://huggingface.co/spaces/rivjasper/frontend-telco
